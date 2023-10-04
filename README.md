@@ -14,4 +14,10 @@
 
 * Let's Doodle: برنامج للرسم على الجوال [تجربة البرنامج](https://x.thunkable.com/projectPage/634ff7c95e1e710228a9d5f5)
 
+* Guess the movie: برنامج التعامل مع مدخلات المستخدم وتخمين اسم الفلم [جرب البرنامج هنا](https://x.thunkable.com/projectPage/631895251276d504e68e050e)
+  
+* fred: برنامج عرض صفحة ويب في تطبيق الجوال [هنا عرض البرنامج](https://x.thunkable.com/projectPage/62dec7f73ba3de001192d83c)
+
+* guess who: برنامج يستخدم الكاميرا لفحص الشكل أو الكائن الذي يعرض أمام الكاميرا وإعطاء نسبة نجاح أو فشل التخمين [للتجربة](https://x.thunkable.com/projectPage/62a8902c0ac1500011a35a9d)
+
 * 
